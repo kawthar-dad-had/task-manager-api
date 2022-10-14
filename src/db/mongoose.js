@@ -10,7 +10,7 @@ mongoose.connect("mongodb://127.0.0.1:27017/task", {
 //defining  a model
 
 //creating an instance 
-/*
+/* 
 const me = new User({
     name: 'ahmed',
     email:'ahmed@gmail.com',
